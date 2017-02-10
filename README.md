@@ -21,6 +21,12 @@ All workshops will be held in the EWS computer laboratory, [1001](http://ada.fs.
 
 **Feb. 22, 1:00 p.m.–3:00 p.m.**
 
+Ex1:
+
+![](https://raw.github.com/uiuc-cse/matlab-fa13/master/lessons/truss.png)
+
+    x = T \ f;
+
 #### MATLAB Numerics, Part I
 
 **Mar. 1, 1:00 p.m.–3:00 p.m.**
