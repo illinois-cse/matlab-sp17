@@ -21,6 +21,15 @@ All workshops will be held in the EWS computer laboratory, [1001](http://ada.fs.
 
 **Feb. 22, 1:00 p.m.–3:00 p.m.**
 
+We will conduct a hands-on walkthrough of what MATLAB has to offer as a foundation for later tutorials throughout the semester. We will cover the following topics:
+
+++Introduction: matlab environment
+++Variables - scalar, vector, matrices
+++Loops, logic, and conditionals
+++Functions
+++Basic numerical examples & matrix solutions
+
+
 Ex1:
 
 ![](https://raw.github.com/uiuc-cse/matlab-fa13/master/lessons/truss.png)
