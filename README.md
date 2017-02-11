@@ -33,6 +33,12 @@ We will conduct a hands-on walkthrough of what MATLAB has to offer as a foundati
 
 5. Basic numerical examples & matrix solutions
 
+Example: Area of a circle & volume of a sphere (functions)
+
+$A(r)=\pi r^2 $
+
+
+
 
 Example: Truss forces (Elementwise & matrix operators)
 
