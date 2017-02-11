@@ -23,13 +23,13 @@ All workshops will be held in the EWS computer laboratory, [1001](http://ada.fs.
 
 We will conduct a hands-on walkthrough of what MATLAB has to offer as a foundation for later tutorials throughout the semester. We will cover the following topics:
 
-1. Introduction - MATLAB environment
+1. Introduction - MATLAB, programming
 
 2. Variables(scalar, vector, matrices) and Operators
 
-3. Loops and conditionals
+3. Functions
 
-4. Functions
+4. Control Flow
 
 5. Basic numerical examples & matrix solutions
 
