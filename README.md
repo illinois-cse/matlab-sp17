@@ -24,6 +24,7 @@ All workshops will be held in the EWS computer laboratory, [1001](http://ada.fs.
 Ex1:
 
 ![](https://raw.github.com/uiuc-cse/matlab-fa13/master/lessons/truss.png)
+![](https://raw.githubusercontent.com/uiuc-cse/matlab-fa14/gh-pages/lessons/img/truss-matrix.png)
 
     x = T \ f;
 
