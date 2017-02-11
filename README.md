@@ -39,6 +39,7 @@ Example: Truss forces (Elementwise & matrix operators)
 ![](https://raw.github.com/uiuc-cse/matlab-fa13/master/lessons/truss.png)
 ![](https://raw.githubusercontent.com/uiuc-cse/matlab-fa14/gh-pages/lessons/img/truss-matrix.png)
 
+    x = inv(T)*f
     x = T \ f;
 
 #### MATLAB Numerics, Part I
