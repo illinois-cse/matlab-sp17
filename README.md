@@ -34,7 +34,7 @@ We will conduct a hands-on walkthrough of what MATLAB has to offer as a foundati
 5. Basic numerical examples & matrix solutions
 
 
-Ex1:
+Example: Truss forces (Elementwise & matrix operators)
 
 ![](https://raw.github.com/uiuc-cse/matlab-fa13/master/lessons/truss.png)
 ![](https://raw.githubusercontent.com/uiuc-cse/matlab-fa14/gh-pages/lessons/img/truss-matrix.png)
