@@ -74,7 +74,7 @@ Example: Control Flow, Define Matrix
       nrows = 10;
       ncols = 10;
       myData = ones(nrows, ncols);
-      % Loop through the matrix
+    % Loop through the matrix
       for r = 1:nrows
          for c = 1:ncols
             if r == c
