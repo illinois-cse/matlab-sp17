@@ -65,11 +65,6 @@ Example: Truss forces (Elementwise & matrix operators)
 
 Example: Control Flow, Define Matrix
     
-    for counter = linspace(0,1,11)
-            disp('Now at number:')
-            disp(counter)
-    end
-    
     % Preallocate a matrix
       nrows = 10;
       ncols = 10;
