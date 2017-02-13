@@ -34,11 +34,27 @@ We will conduct a hands-on walkthrough of what MATLAB has to offer as a foundati
 5. Basic numerical examples & matrix solutions
 
 Example: Area of a circle & volume of a sphere (functions)
+    
+    function [A] = areaOfCircle(r)
+    A = pi * r^2;
 
 Example: Fahrenheit/Celsius (functions) 
 
-Example: Falling ballistic object (vectorization, functions) 
 
+    function Tf = TempC2F(Tc)
+    Tf = Tc .* (180/100) + 32;
+    end
+
+Example: Falling ballistic object (vectorization, functions) 
+    
+    a=-9.8; %m/s^2
+    v=2520; %m/s
+    x0=0;
+    t=1;
+    y=a*t^2+v*t+x0;
+     
+    t=linspace(0,5,101) 
+     
 Example: Truss forces (Elementwise & matrix operators)
 
 ![](https://raw.github.com/uiuc-cse/matlab-fa13/master/lessons/truss.png)
@@ -46,6 +62,30 @@ Example: Truss forces (Elementwise & matrix operators)
 
     x = inv(T)*f
     x = T \ f;
+
+Example: Control Flow, Define Matrix
+    
+    for counter = linspace(0,1,11)
+            disp('Now at number:')
+            disp(counter)
+    end
+    
+    % Preallocate a matrix
+      nrows = 10;
+      ncols = 10;
+      myData = ones(nrows, ncols);
+      % Loop through the matrix
+      for r = 1:nrows
+         for c = 1:ncols
+            if r == c
+               myData(r,c) = 2;
+            elseif abs(r - c) == 1
+               myData(r,c) = -1;
+            else
+               myData(r,c) = 0;
+            end
+          end      
+      end
 
 #### MATLAB Numerics, Part I
 
