@@ -29,9 +29,9 @@ We will conduct a hands-on walkthrough of what MATLAB has to offer as a foundati
 
 3. Functions
 
-4. Control Flow
+4. Basic numerical examples & matrix solutions
 
-5. Basic numerical examples & matrix solutions
+5. Control flow & matrix definitions
 
 Example: Area of a circle & volume of a sphere (functions)
     
