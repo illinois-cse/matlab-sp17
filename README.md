@@ -66,8 +66,8 @@ Example: Truss forces (Elementwise & matrix operators)
 Example: Control Flow, Define Matrix
     
     % Preallocate a matrix
-      nrows = 10;
-      ncols = 10;
+      nrows = 4;
+      ncols = 4;
       myData = ones(nrows, ncols);
     % Loop through the matrix
       for r = 1:nrows
