@@ -94,11 +94,11 @@ Example: Control Flow, Define Matrix
 **Mar. 8, 1:00 p.m.–3:00 p.m.**
 
 #### Data Analytics with MATLAB (1)
-   Data access and data cleaning
+   - Data access and data cleaning
 
 **Mar. 15, 1:00 p.m.–3:00 p.m.**
 
 #### Data Analytics with MATLAB (2)
-   Principle Component Analysis
+   - Principle Component Analysis
 
 Topics before and after the break to include:  machine learning, clustering, data mining, data cleaning, and other key steps in learning from large data sets.
