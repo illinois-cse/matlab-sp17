@@ -86,10 +86,10 @@ Example: Control Flow, Define Matrix
 
 **Mar. 1, 1:00 p.m.–3:00 p.m.**
 
-1. Heat conduction (Numerics & linear algebra) 
-2. Radioactive decay chain (system of 1st order ODEs)
-3. Radioactive decay scheme (System of 1st-order ODEs) 
-4. Shock waves (nonlinear PDE) 
+   -  Heat conduction (Numerics & linear algebra) 
+   -  Radioactive decay chain (system of 1st order ODEs)
+   -  Radioactive decay scheme (System of 1st-order ODEs) 
+   -  Shock waves (nonlinear PDE) 
 
 **Mar. 8, 1:00 p.m.–3:00 p.m.**
 
