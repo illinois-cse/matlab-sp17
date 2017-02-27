@@ -88,8 +88,8 @@ Example: Control Flow, Define Matrix
 
    -  Heat conduction (Numerics & linear algebra) 
    -  Radioactive decay chain (system of 1st order ODEs)
-   -  Radioactive decay scheme (System of 1st-order ODEs) 
-   -  Shock waves (nonlinear PDE) 
+   -  Shock waves (nonlinear PDE)
+   -  Coolant fow in channel (2nd-order, PDE Toolbox) 
 
 #### Data Analytics with MATLAB (1)
 **Mar. 8, 1:00 p.m.–3:00 p.m.**
