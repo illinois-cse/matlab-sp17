@@ -91,14 +91,16 @@ Example: Control Flow, Define Matrix
    -  Radioactive decay scheme (System of 1st-order ODEs) 
    -  Shock waves (nonlinear PDE) 
 
+#### Data Analytics with MATLAB (1)
 **Mar. 8, 1:00 p.m.–3:00 p.m.**
 
-#### Data Analytics with MATLAB (1)
+
    - Data access and data cleaning
 
+#### Data Analytics with MATLAB (2)
 **Mar. 15, 1:00 p.m.–3:00 p.m.**
 
-#### Data Analytics with MATLAB (2)
+
    - Principle Component Analysis
 
 Topics before and after the break to include:  machine learning, clustering, data mining, data cleaning, and other key steps in learning from large data sets.
