@@ -100,6 +100,7 @@ Example: Control Flow, Define Matrix
 **Mar. 15, 1:00 p.m.–3:00 p.m.**
 
    - Principle Component Analysis
+
 **Spring break**
 
 #### Data Analytics with MATLAB (3)
