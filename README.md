@@ -89,7 +89,7 @@ Example: Control Flow, Define Matrix
    -  Control Flow in Matlab 
    -  Heat conduction example
    -  Explicit function vs. Function control
-   -  Radioactive decay chain (systme of linear ODEs) example
+   -  Radioactive decay chain (systems of linear ODEs) example
    -  Systems of nonlinear ODEs example
    
 #### Data Analytics with MATLAB (1)
