@@ -112,5 +112,24 @@ Example: Control Flow, Define Matrix
    - Support Vector Machine
    - Latin hypercube sampling
 
+#### Data Analytics with MATLAB (4)
+**April 5, 1:00 p.m.–3:00 p.m.**
+   
+   - Classification: K-nearest neighbor method, Tree Model
+   
+#### Data Analytics with MATLAB (5)
+**April 12, 1:00 p.m.–3:00 p.m.**
+    
+   - Classification: Naive Bayes, Logistic Regression, Regression with Regularization
 
+#### Data Analytics with MATLAB (6)
+**April 19, 1:00 p.m.–3:00 p.m.**
+
+   - K means clustering, Hierarchical clustering
+    
+#### Data Analytics with MATLAB (7)
+**April 26, 1:00 p.m.–3:00 p.m.**
+   
+   - Hidden Markove Model
+   - Data import from sql server
 
