@@ -135,6 +135,6 @@ Example: Control Flow, Define Matrix
 #### Data Analytics with MATLAB (8)
 **May 3, 1:00 p.m.–3:00 p.m.**
    
-   - Hidden Markove Model
+   - Hidden Markov Model
    - Data import from sql server
 
