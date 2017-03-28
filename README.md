@@ -109,7 +109,8 @@ Example: Control Flow, Define Matrix
 #### Data Analytics with MATLAB (3)
 **Mar. 29, 1:00 p.m.–3:00 p.m.**
    
-   - Classification Algorithm
+   - Tree model for Classification and Regression
+   - Support Vector Machine
 
 
-Topics before and after the break to include:  machine learning, clustering, data mining, data cleaning, and other key steps in learning from large data sets.
+
