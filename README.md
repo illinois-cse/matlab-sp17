@@ -110,7 +110,6 @@ Example: Control Flow, Define Matrix
 **Mar. 29, 1:00 p.m.–3:00 p.m.**
    
    - Support Vector Machine
-   - Latin hypercube sampling
 
 #### Data Analytics with MATLAB (4)
 **April 5, 1:00 p.m.–3:00 p.m.**
