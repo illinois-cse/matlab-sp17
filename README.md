@@ -119,17 +119,17 @@ Example: Control Flow, Define Matrix
 #### Data Analytics with MATLAB (5)
 **April 12, 1:00 p.m.–3:00 p.m.**
     
-   - Classification: Linear and Quadratic Discriminant Analysis, Naive Bayes
+   - K means clustering, Hierarchical clustering  
    
 #### Data Analytics with MATLAB (6)
 **April 19, 1:00 p.m.–3:00 p.m.**   
 
-   - Logistic Regression, Regression with Regularization   
+   - Classification: Linear and Quadratic Discriminant Analysis, Naive Bayes
 
 #### Data Analytics with MATLAB (7)
 **April 26, 1:00 p.m.–3:00 p.m.**   
 
-   - K means clustering, Hierarchical clustering   
+   - Logistic Regression, Regression with Regularization  
    
 #### Data Analytics with MATLAB (8)
 **May 3, 1:00 p.m.–3:00 p.m.**
